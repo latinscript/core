@@ -1,0 +1,12 @@
+{
+    "autoload": {
+        "psr-4": {
+            "LatinScript\\": "src/"
+        }
+    },
+    "require": {
+        "composer/composer": "^2.0"
+    },
+    "name": "as/as",
+    "description": "asas"
+}

@@ -1,0 +1,9 @@
+var ciao aequat "stringa"
+
+si ciao "stringa" idem est:
+    verbo("fammoc")
+
+var ar enumero [“ciao”, “ciao2”, “lol”]
+
+enumero omnis ar, element:
+    verbo(element)

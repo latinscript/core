@@ -1,0 +1,11 @@
+var   ciao   aequat  "stringa"
+var ciao_ aequat   'ae sono latino fammoc'
+var ciao3 aequat   'aeVae989(/)/5765$$64u5rufVUYTVr67itBUHjlKMK°Lçùò§éòù°ò'
+verbo('ciao')
+verbo(ciao_)
+verbo(ciao3)
+verbo(ciao)
+
+si ciao 'stringa' idem est:
+    verbo('fammoccone')
+    verbo('fammoccone pt.2.2.2.')
